@@ -14,17 +14,15 @@
     <br />
 </p>
 
-
-Contributors to the redevelopment of the site:
+## Contributors to the redevelopment of the site:
 
 [Zaeed Kibria](https://github.com/ZaeedKibria) <br/>[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/zaeedkibria/)
-
 
 [Jakeb Prince](https://github.com/PrinceJakeb) <br/>[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jakeb-prince-5563181ab/)
 <br/>
 <br/>
 
-## Workflow
+## Collaboration tools:
 
 [Discord](https://discord.gg/XMKqTSyNhd)
 <br/>
@@ -35,19 +33,20 @@ Contributors to the redevelopment of the site:
 [Trello](https://trello.com/b/ldL0BLoM/team-17-web-dev)
 <br/>
 
-## How to import this site into local environment
+## Domain and hosting
 
-Download [LOCAL](https://localwp.com/) and install, log in with your WordPress credentials to edit your WordPress site
-locally.
+As a team, we decided to host our website through [HostGator](https://www.hostgator.com/) as they provide more than 6
+million domains, 99.9% uptime and it's cheap compared to its competitors.
 
+## How to import this site into local environment:
 
+Download [LOCAL](https://localwp.com/) and install on your computer. Once the installation is complete, open local and
+create a new site, select **custom** and continue by providing your WordPress credentials. <br/>
+Congratulations! Your WordPress site is now local. Please check by clicking **open site** button.
 
-
-
-
-
-
-
+<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Details will be added later. 
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
