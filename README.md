@@ -1,7 +1,3 @@
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/zaeedkibria/)
-
-
-
 <br />
 <p align="center">
   <a href="https://github.com/cp3402-students/cp3402-2021-team17">
@@ -21,14 +17,15 @@
 
 Contributors to the redevelopment of the site:
 
-[Zaeed Kibria](https://github.com/ZaeedKibria)
-<br/>
-[Jakeb Prince](https://github.com/PrinceJakeb)
-<br/>
-<br/>
+[Zaeed Kibria](https://github.com/ZaeedKibria) <br/>[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/zaeedkibria/)
 
+
+[Jakeb Prince](https://github.com/PrinceJakeb) <br/>[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jakeb-prince-5563181ab/)
+<br/>
+<br/>
 
 ## Workflow
+
 [Discord](https://discord.gg/XMKqTSyNhd)
 <br/>
 [Slack](https://app.slack.com/client/T0C3E7EP2/G0VCUFW0M/thread/C0K0UUFN2-1615507197.020300)
@@ -40,8 +37,15 @@ Contributors to the redevelopment of the site:
 
 ## How to import this site into local environment
 
-Download [LOCAL](https://localwp.com/) and install, log in with your WordPress credentials to edit your WordPress
-site locally.
+Download [LOCAL](https://localwp.com/) and install, log in with your WordPress credentials to edit your WordPress site
+locally.
+
+
+
+
+
+
+
 
 
 
