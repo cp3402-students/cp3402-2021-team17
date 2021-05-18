@@ -28,7 +28,7 @@ Contributors to the redevelopment of the site:
 <br/>
 
 
-##Workflow
+## Workflow
 [Discord](https://discord.gg/XMKqTSyNhd)
 <br/>
 [Slack](https://app.slack.com/client/T0C3E7EP2/G0VCUFW0M/thread/C0K0UUFN2-1615507197.020300)
