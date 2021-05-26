@@ -14,10 +14,6 @@
     <br />
 </p>
 
-
-
-
-
 ## Collaboration tools:
 
 - [Discord](https://discord.gg/XMKqTSyNhd)
