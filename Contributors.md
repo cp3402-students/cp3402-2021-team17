@@ -1,9 +1,11 @@
-# Project Contributors
-## Thank you everyone for contributing to the project so far:
+## Contributors to the redevelopment of the site:
 
-* [Zaeed Kibria](https://github.com/ZaeedKibria)
-* Add your names and GitHub urls here please
+[Zaeed Kibria](https://github.com/ZaeedKibria) <br/>[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/zaeedkibria/)
 
+[Jakeb Prince](https://github.com/PrinceJakeb) <br/>[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jakeb-prince-5563181ab/)
+<br/>
 <br/>
 
-Student Group project CP3402 for [James Cook University](https://www.jcu.edu.au/)
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[linkedin-url]: https://linkedin.com/in/othneildrew
